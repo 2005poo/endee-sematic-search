@@ -1,0 +1,4 @@
+Python is a high-level programming language.
+Machine Learning allows systems to learn from data.
+Vector databases store embeddings for fast similarity search.
+Endee is a lightweight vector database used for AI applications.
